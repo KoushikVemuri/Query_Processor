@@ -1,7 +1,3 @@
-#Koushik Vemuri
-#UNT ID: 11590466
-
-
 import os
 import re
 from nltk.stem import PorterStemmer
